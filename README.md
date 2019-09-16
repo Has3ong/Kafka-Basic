@@ -9,12 +9,20 @@
 * Using ElasticSearch
 * Kafka Stream Filter
 
-Reference
+
+
+### 2 - Kafka-Streams
+
+* Kafka Stream Starter App
+
+### 3 - Kafka-Connect
+
+* Kafka Development Environments UI
+
+## Reference
+
 * https://developer.twitter.com/
 * https://bonsai.io
-
-### 2 -
-
  
 ## Versions
 
